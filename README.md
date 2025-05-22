@@ -64,16 +64,6 @@ The dataset contains customer demographic information, account details, and serv
      - Classification Report (Precision, Recall, F1-score)
    - Results demonstrate how well the model predicts churn.
 
----
-
-## 📌 How to Run
-
-### Requirements
-
-Install dependencies:
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn
-
-
+--
 ### Author : Samikshya Parija
 ### Institution : Siksha 'O' Anusandhan 
